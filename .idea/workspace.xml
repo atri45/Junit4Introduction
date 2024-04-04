@@ -4,27 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2757b861-f8e1-4c0a-9e2b-14d7d65b825d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Annotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Assert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Categoory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Junit4Introduction.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RunWith1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RunWith2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RunWith3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RunWith4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RunWith5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Timeout.java" afterDir="false" />
+    <list default="true" id="2757b861-f8e1-4c0a-9e2b-14d7d65b825d" name="Changes" comment="rename doc">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +50,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\junit_learning" />
+    </key>
+  </component>
   <component name="RunManager" selected="JUnit.RunWith5">
     <configuration name="RunWith1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit_learning" />
@@ -138,8 +124,35 @@
       <workItem from="1704185353187" duration="5517000" />
       <workItem from="1704243770308" duration="7000" />
       <workItem from="1704289993245" duration="9392000" />
-      <workItem from="1704337150524" duration="3776000" />
+      <workItem from="1704337150524" duration="4113000" />
+      <workItem from="1704420931852" duration="22000" />
+      <workItem from="1706247547023" duration="122000" />
+      <workItem from="1709735049612" duration="37000" />
+      <workItem from="1709735098764" duration="19000" />
+      <workItem from="1710560603383" duration="257000" />
     </task>
+    <task id="LOCAL-00001" summary="add resource">
+      <created>1704341020337</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704341020337</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add resource">
+      <created>1704341104312</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704341104312</updated>
+    </task>
+    <task id="LOCAL-00003" summary="rename doc">
+      <created>1704341189951</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704341189951</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,5 +168,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add resource" />
+    <MESSAGE value="rename doc" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename doc" />
   </component>
 </project>
